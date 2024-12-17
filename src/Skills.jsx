@@ -24,7 +24,7 @@ const Skills = () => {
         </div>
 
         <div className='skills-set mt-5 '>
-            <h3 className='skills-set-h3'>Skills Set</h3>
+            <h3 className='skills-set-h3'>Skill Set</h3>
             <div className='skills-icons ms-5'>
                 <div className='skills-icons-set1'>
                     <img src={htmlIcon} alt="Html Icon" className='skill-icon' />
